@@ -8,7 +8,7 @@ image:
   repository: vismaya21/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "25064725643"
+  tag: "25104206181"
 
 ingress:
   enabled: false
